@@ -83,6 +83,7 @@ body{
     background-color: #e286ac;
     height: 130px;
     width: 130px;
+    border-radius:3px;
     position: absolute;
     top: -50px;
     left: 110px;
