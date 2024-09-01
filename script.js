@@ -12,7 +12,7 @@ function lines(){
     }, 5000);
 
 }
-
+ 
 setInterval(function () {
     lines()
 }, 400);

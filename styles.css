@@ -55,9 +55,8 @@ body{
     width: 69%;
     height: 180px;
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+    top: 40%;
+    left: 15%;
 }
 .hero
 {
@@ -120,8 +119,8 @@ body{
     font-size: 15px;
     position: absolute;
     bottom: -5px;
-    left: 50%;
-    transform: translateX(-50%);
+    left: 30%;
+    
 }
 #hours::after{
     content: 'HOURS';
